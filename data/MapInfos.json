@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"World Map","order":1,"parentId":0,"scrollX":1213.0909090909092,"scrollY":1334.1818181818182},
+{"id":2,"expanded":false,"name":"Inn (Social Media)","order":2,"parentId":0,"scrollX":580.3636363636364,"scrollY":318},
+{"id":3,"expanded":false,"name":"Town Hall (Internal Affairs)","order":3,"parentId":0,"scrollX":580.3636363636364,"scrollY":318},
+{"id":4,"expanded":false,"name":"Main Castle (EXCO)","order":4,"parentId":0,"scrollX":1064,"scrollY":649},
+{"id":5,"expanded":false,"name":"Conference Room","order":5,"parentId":0,"scrollX":580.3636363636364,"scrollY":318},
+{"id":6,"expanded":false,"name":"Explorer's Tent (External Affairs)","order":6,"parentId":0,"scrollX":580.3636363636364,"scrollY":318},
+{"id":7,"expanded":false,"name":"The Treasury (Secretary and Treasurer)","order":7,"parentId":0,"scrollX":580.3636363636364,"scrollY":318}
+]
